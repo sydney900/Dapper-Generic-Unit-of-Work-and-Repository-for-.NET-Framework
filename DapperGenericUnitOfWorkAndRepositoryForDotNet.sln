@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperRepository", "DapperRepository\DapperRepository.csproj", "{133C2A8C-B5CC-4845-A15E-80193C4E82FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperRepository.Test", "DapperRepository.Test\DapperRepository.Test.csproj", "{9E49E244-B97D-4CA7-8815-E014A1B8B6BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3D0BE21-0C48-410B-83DC-E7B7409E943D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133C2A8C-B5CC-4845-A15E-80193C4E82FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133C2A8C-B5CC-4845-A15E-80193C4E82FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133C2A8C-B5CC-4845-A15E-80193C4E82FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133C2A8C-B5CC-4845-A15E-80193C4E82FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E49E244-B97D-4CA7-8815-E014A1B8B6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E49E244-B97D-4CA7-8815-E014A1B8B6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E49E244-B97D-4CA7-8815-E014A1B8B6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E49E244-B97D-4CA7-8815-E014A1B8B6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
